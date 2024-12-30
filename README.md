@@ -1,10 +1,14 @@
 Project Overview
 
+
 This repository contains manual testing artifacts for Version 1 of the Guru99 application. 
 
 The primary focus is to ensure functionality, usability, and reliability by executing test cases and identifying potential defects.
 
+
+
  Objective
+ 
  
 Validate core functionalities of the application.
 
@@ -12,7 +16,9 @@ Identify and report bugs effectively.
 
 Ensure a seamless user experience through systematic manual testing.
 
-🛠Testing Scope
+
+Testing Scope
+
 
 Functional Testing: Verify all core features meet requirements.
 
@@ -23,7 +29,9 @@ Regression Testing: Ensure recent changes haven't affected existing functionalit
 Bug Reporting: Log issues with detailed descriptions, steps to reproduce, and severity levels.
 
 
+
 Artifacts Included
+
 
  Test Plan: Outlines testing objectives, scope, strategy, and schedule.
  
